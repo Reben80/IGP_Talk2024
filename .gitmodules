@@ -1,0 +1,3 @@
+[submodule "IGP_Talk"]
+	path = IGP_Talk
+	url = https://github.com/your-username/IGP_Talk.git
