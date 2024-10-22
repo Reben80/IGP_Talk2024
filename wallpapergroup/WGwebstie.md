@@ -1,1 +1,1 @@
-You can use [Wallpaper Group Identifier ](https://vercel.com/reben80s-projects/wallpapergroup) to check which one of the category the wallpaper belong. These patterns are all form [tillingsearch](https://tilingsearch.mit.edu/)
+You can use [Wallpaper Group Identifier ](https://wallpapergroup.vercel.app/) to check which one of the category the wallpaper belong. These patterns are all form [tillingsearch](https://tilingsearch.mit.edu/)
